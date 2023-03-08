@@ -11,6 +11,13 @@ function App() {
                   <p>Descripcion</p>
                </div>
             </div>
+            <div className="card">
+               <h3>Braian Alan Mancioni Boggon</h3>
+               <div>
+                  <p>Alumno CEPIT</p>
+                  <p>Estudiando: React, TypeScript, JavaScript</p>
+               </div>
+            </div>
          </header>
       </div>
    );
