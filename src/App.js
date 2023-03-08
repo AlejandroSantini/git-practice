@@ -10,16 +10,14 @@ function App() {
                   <p>Profesor de FIP en CEPIT</p>
                   <p>Tecnologias: Git, React, Javascript...</p>
                </div>
-               </div>
-               
-             <div className="card">
+            </div>
+            <div className="card">
                <h3>Andrés Fernández</h3>
                <div>
                   <p>Estudiante</p>
                   <p>Cursando Desarrollador Full Stack</p>
                </div>
             </div>
-            
             <div className="card">
                <h3>Alejandro Atala</h3>
                <div>
@@ -27,11 +25,13 @@ function App() {
                   <p>Tecnologias: Git, React, Javascript...</p>
                </div>
             </div>
-              <div className="card">
+            <div className="card">
                <h3>Victoria Rodriguez</h3>
                <div>
                   <p>Alumna de FIP</p>
                   <p>Estudiando... </p>
+               </div>
+            </div>
             <div className="card">
                <h3>Braian Alan Mancioni Boggon</h3>
                <div>
