@@ -18,6 +18,13 @@ function App() {
                   <p>Tecnologias: Git, React, Javascript...</p>
                </div>
             </div>
+              <div className="card">
+               <h3>Victoria Rodriguez</h3>
+               <div>
+                  <p>Alumna de FIP</p>
+                  <p>Estudiando... </p>
+               </div>
+            </div>
          </header>
       </div>
    );
