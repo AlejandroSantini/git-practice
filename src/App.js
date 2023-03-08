@@ -37,6 +37,13 @@ function App() {
                   <p>Tecnologias: React, Javascript, Git...</p>
                </div>
             </div>
+            <div className="card">
+               <h3>Bruno Leonel Mancioni Boggon</h3>
+               <div>
+                  <p>Alumno CEPIT</p>
+                  <p>Cursando desde 2022</p>
+               </div>
+            </div>
          </header>
       </div>
    );
