@@ -53,6 +53,13 @@ function App() {
                   <p>Cursando desde 2022</p>
                </div>
             </div>
+            <div className="card">
+               <h3>Gisela Gentile</h3>
+               <div>
+                  <p>Alumna de FIP en CEPIT</p>
+                  <p>Tecnologias: Git, React, Javascript...</p>
+               </div>
+             </div>
          </header>
       </div>
    );
