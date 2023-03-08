@@ -12,9 +12,9 @@ function App() {
                </div>
             </div>
             <div className="card">
-               <h3>Alejandro Santini</h3>
+               <h3>Alejandro Atala</h3>
                <div>
-                  <p>Profesor de FIP en CEPIT</p>
+                  <p>Estudiante de FIP en CEPIT</p>
                   <p>Tecnologias: Git, React, Javascript...</p>
                </div>
             </div>
