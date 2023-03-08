@@ -5,10 +5,10 @@ function App() {
       <div className="App">
          <header className="App-header">
             <div className="card">
-               <h3>Alejandro Santini</h3>
+               <h3>Nombre Apellido</h3>
                <div>
-                  <p>Profesor de FIP en CEPIT</p>
-                  <p>Tecnologias: React, Python, Javascript...</p>
+                  <p>Rol/Puesto</p>
+                  <p>Descripcion</p>
                </div>
             </div>
          </header>
