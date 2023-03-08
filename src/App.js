@@ -60,6 +60,13 @@ function App() {
                   <p>Tecnologias: Git, React, Javascript...</p>
                </div>
              </div>
+             <div className="card">
+               <h3>yamila dib</h3>
+               <div>
+                  <p>Alumna de FIP en CEPIT</p>
+                  <p>Tecnologias: Git, React, Javascript...</p>
+               </div>
+             </div>
          </header>
       </div>
    );
