@@ -25,6 +25,13 @@ function App() {
                   <p>Estudiando: React, TypeScript, JavaScript</p>
                </div>
             </div>
+            <div className="card">
+               <h3>Mariano Carbajo</h3>
+               <div>
+                  <p>Estudiante de Programador FullStack en CEPIT</p>
+                  <p>Tecnologias: React, Javascript, Git...</p>
+               </div>
+            </div>
          </header>
       </div>
    );
