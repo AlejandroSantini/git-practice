@@ -67,6 +67,13 @@ function App() {
                   <p>Tecnologias: Git, React, Javascript...</p>
                </div>
              </div>
+             <div className="card">
+               <h3>Silvio Alvarez</h3>
+               <div>
+                  <p>Alumno de FIP en CEPIT</p>
+                  <p>Estudiando Curso FullStack</p>
+               </div>
+             </div>
          </header>
       </div>
    );
